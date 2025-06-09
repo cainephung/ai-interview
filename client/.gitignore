@@ -34,3 +34,4 @@ client/.vite/
 
 # Optional: keep recommended VSCode extensions
 !.vscode/extensions.json
+**/.env
